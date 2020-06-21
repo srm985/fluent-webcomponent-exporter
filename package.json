@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Sean McQuay",
   "browserslist": {
     "development": [
       "last 1 chrome version",
@@ -11,10 +11,6 @@
       "not dead",
       "not op_mini all"
     ]
-  },
-  "bugs": {
-    "email": "direflow@silind.com",
-    "url": "https://github.com/Silind-Software/direflow/issues/new"
   },
   "config-overrides-path": "direflow-webpack.js",
   "dependencies": {
@@ -61,10 +57,10 @@
   ],
   "license": "MIT",
   "main": "build/direflowBundle.js",
-  "name": "direflow-demo",
+  "name": "fluent-webcomponent-exporter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Silind-Software/direflow"
+    "url": "https://github.com/srm985/fluent-webcomponent-exporter"
   },
   "scripts": {
     "build": "direflow-scripts build",
@@ -72,5 +68,5 @@
     "start": "direflow-scripts start",
     "test": "direflow-scripts test"
   },
-  "version": "1.0.0"
+  "version": "0.0.1"
 }
