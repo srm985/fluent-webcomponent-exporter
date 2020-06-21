@@ -8,13 +8,3 @@
  * !This file cannot be removed.
  * It can be left blank if not needed.
  */
-
-import DireflowDemo from './direflow-components/direflow-demo';
-
-DireflowDemo.then((element) => {
-
-  /**
-   * Access DOM node when it's mounted
-   */
-  console.log('direflow-demo is mounted on the DOM', element);
-});

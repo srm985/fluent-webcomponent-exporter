@@ -9,10 +9,8 @@
  * this file can be safely deleted.
  */
 
-import App from './direflow-components/direflow-demo/App';
 import ButtonComponent from './direflow-components/ButtonComponent/ButtonComponent';
 
 export {
-  App,
   ButtonComponent
 };
