@@ -20,7 +20,7 @@
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "description": "This project is created using Direflow",
   "devDependencies": {
