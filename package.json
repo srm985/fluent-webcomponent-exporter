@@ -15,12 +15,12 @@
   "config-overrides-path": "direflow-webpack.js",
   "dependencies": {
     "@fluentui/react": "^7.118.0",
-    "direflow-component": "3.4.14",
+    "direflow-component": "3.5.5",
     "direflow-scripts": "3.4.14",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "description": "This project is created using Direflow",
   "devDependencies": {
